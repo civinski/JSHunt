@@ -1,0 +1,30 @@
+.product-info {
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 700px;
+  background: #fff;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+.product-info p {
+  color: #777;
+  line-height: 24px;
+  margin-top: 5px;
+}
+
+.product-info p a {
+  color: #069;
+}
+
+.loading {
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 100%;
+}
+
+.main {
+  margin: 80px auto 0;
+}
